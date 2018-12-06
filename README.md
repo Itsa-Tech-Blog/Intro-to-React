@@ -1,2 +1,2 @@
-# React_vs_Vue
+# Introduction to React
 A comparison of React and Vue
