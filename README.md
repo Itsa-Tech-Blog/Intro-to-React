@@ -1,2 +1,3 @@
 # Introduction to React
-A comparison of React and Vue
+
+https://itsatechblog.netlify.com/whats-this-react-thing
