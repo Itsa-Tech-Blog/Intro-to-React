@@ -19,7 +19,7 @@ class App extends Component {
               rel="noopener noreferrer"
             >
             </a>
-          <Form />
+          <Form messageFromApp={'woohoo, I am passing data from the App component to you!'}/>
           </header>
         </div>
       </div>
